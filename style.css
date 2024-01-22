@@ -1,0 +1,13 @@
+h1{font-family:helvetiva, sans-serif;
+}
+p{font-family:monospace;
+}
+table{font-family:Helvetica, sans-serif;
+border-style:solid;
+border-width: 3px;
+border-collapse: collapse;
+}
+th{font-weight:800;
+background-color: #A020F0;
+color           : #ffffff;
+}
